@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smaran</h1>
-<h3 align="center">Assistant Researcher & Apprentice @UGA | Class of 2028 @BHS | CS and Finance</h3>
+<h3 align="center">Class of 2028 @BHS | Computer Engineering & CS</h3>
 
 - 🔭 I’m currently working on **a research project around EEG technologies and curating olympiad study materials**
 
